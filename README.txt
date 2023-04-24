@@ -1,0 +1,1 @@
+The robot first passes through the whole labirinth, gathering information and calculating the shortest path, and then at the second run he picks this new route.
